@@ -10,4 +10,4 @@ for restricted access areas.
 
 
 Generate and use your own serviceAccountKey.json from firebase . add it to resources folder.
-Also make and add you firebase database url . use the same server configuration.
+Also make and add your own firebase database url . use the same server configuration.
