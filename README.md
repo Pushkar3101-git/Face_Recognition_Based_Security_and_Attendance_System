@@ -7,3 +7,6 @@ library by Adam Geitgey, and integrates with OpenCV for real-time face detection
 recognition. It provides a seamless and efficient way to mark attendance, ensuring accuracy and 
 eliminating the possibility of proxy attendance, all while offering enhanced security features 
 for restricted access areas.
+
+
+Generate and use your own serviceAccountKey.json from firebase . add it to resources folder.
